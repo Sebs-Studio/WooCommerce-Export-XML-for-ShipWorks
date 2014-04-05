@@ -1,0 +1,11 @@
+*** WooCommerce Export XML for Shipworks Changelog ***
+
+2013.05.07 - version 1.2.2
+ * Removed unused code.
+ * Improved the header for file attachment when selecting a single date.
+ * Added the ability to export a single order under 'WooCommerce > Orders' table.
+ * Added setting page for more optional functions.
+ * Added the ability to upload via FTP your orders automatically to a directory for ShipWorks to automatically read and import your orders.
+ 
+2013.04.24 - version 1.0.0
+ * First inital release

@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Export XML for ShipWorks\n"
+"POT-Creation-Date: 2013-04-23 02:06+0100\n"
+"PO-Revision-Date: 2013-04-23 02:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: Seb's Studio <sebastien@sebs-studio.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/woocommerce-export-xml-for-shipworks.php:101
+msgid "Export"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/woocommerce-export-xml-for-shipworks.php:103
+msgid "Go to the settings page"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/woocommerce-export-xml-for-shipworks.php:103
+#: Studio\woocommerce-export-xml-for-shipworks/woocommerce-export-xml-for-shipworks.php:144
+msgid "Settings"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/woocommerce-export-xml-for-shipworks.php:117
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:103
+msgid "Support"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/woocommerce-export-xml-for-shipworks.php:118
+msgid "More WooCommerce Extensions"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/woocommerce-export-xml-for-shipworks.php:134
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:61
+msgid "Export Orders"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:29
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:49
+msgid "WooCommerce Export XML for ShipWorks"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:30
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:111
+msgid "ShipWorks Export"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:43
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:118
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:52
+msgid "Start Date"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:52
+msgid "From"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:53
+msgid "End Date"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:53
+msgid "To"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:55
+msgid "Export Status"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:57
+msgid "Processing"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:59
+msgid "Completed"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:505
+msgid ""
+"There are either no orders at all or none in the date range you have "
+"choosen. You need to have at least one order to be able to export an XML. Go "
+"back to"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:505
+msgid "export page"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-export.php:505
+msgid "to try again!"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:74
+msgid "About the Plugin"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:76
+msgid "WooCommerce Export XML for Shipworks"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:77
+#, php-format
+msgid "Plugin Created by <a href=\"%1$s\" target=\"_blank\">Seb's Studio</a>."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:78
+msgid "Plugin Version"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:79
+msgid "ShipWorks XML Schema Version"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:80
+msgid "Compatible with ShipWorks Version"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:85
+msgid "How to Export"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:87
+msgid "How to export your orders"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:88
+#, php-format
+msgid ""
+"To export your orders, look under <a href=\"%1$s\">WooCommerce > ShipWorks "
+"Export</a> and press \"Export Orders\". Yes, it is that easy :-)."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:99
+msgid "Helpful Links"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:100
+msgid "ShipWorks"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:101
+msgid "Seb's Studio"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-export-xml-for-shipworks/class/class-help-and-settings.php:102
+msgid "Plugin Details"
+msgstr ""
